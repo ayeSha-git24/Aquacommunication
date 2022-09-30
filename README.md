@@ -1,5 +1,5 @@
  #Aquacommunication-Chatbot 
- This is a Informational bot application for educational related to give information about Aquacommunication
+   This is a Informational bot application for educational related to give information about Aquacommunication
  ## This web based informational bot application has been developed for the accomplishment of future ready talent internship program launched bt microsoft,future skill prime,Quess,GitHub,EY.
  
 ## Project link: "https://sites.google.com/view/aquacommunicationazure-website/home/chatbot"
